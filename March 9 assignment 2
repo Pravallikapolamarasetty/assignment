@@ -1,0 +1,5 @@
+#assignment 2
+x="""my college name is aditya college
+    aditya is the best college.aditya teaches you coding"""
+n=x.count("aditya")
+print(n)
